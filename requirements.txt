@@ -2,3 +2,5 @@ flask>2.0
 pytest
 pytest-cov
 requests
+pytest
+pytest-cov
